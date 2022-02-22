@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930621012969",
+    "project_id": "halal-foods-209c9",
+    "storage_bucket": "halal-foods-209c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930621012969:android:9ff61826ff6f7f25ff2978",
+        "android_client_info": {
+          "package_name": "com.example.halal_food_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930621012969-hkt0obeq7u616sf3ir5g90qmccr7viaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7w4GmVfkrRtZr7TYpGhrd3O9JHTSQDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930621012969-hkt0obeq7u616sf3ir5g90qmccr7viaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
